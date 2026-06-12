@@ -72,17 +72,26 @@ These insights help improve operational efficiency and strategic planning.
 <br><br>
 
 <img width="727" height="496" alt="image" src="https://github.com/user-attachments/assets/f850ccc4-be9f-481a-86c6-2b0ef18ff4c2" />
-Fig. Backlog and Backlog Fulfillment
+<p align="center">
+  <b>Fig. Backlog and Backlog Fulfillment</b>
+</p>
+
 
 <br><br>
 
 <img width="739" height="502" alt="image" src="https://github.com/user-attachments/assets/7c2215ec-f942-4b0b-a60a-d438a1e80334" />
-Fig. Backlog and Delivery
+<p align="center">
+  <b>Fig. Backlog and Delivery</b>
+</p>
+
 
 <br><br>
 
 <img width="740" height="507" alt="image" src="https://github.com/user-attachments/assets/cc880e1a-47eb-4528-9dde-8594d221c90c" />
-Fig. Delivery and Unfulfilled Demand
+<p align="center">
+  <b>Fig. Delivery and Unfulfilled Demand</b>
+</p>
+
 
 <br><br>
 
