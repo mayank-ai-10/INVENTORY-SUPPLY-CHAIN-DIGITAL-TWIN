@@ -1,6 +1,6 @@
-# 🚚 INVENTORY SUPPLY CHAIN DIGITAL TWIN
+# INVENTORY SUPPLY CHAIN DIGITAL TWIN
 
-## 📌 Overview
+## Overview
 
 Inventory Supply Chain Digital Twin is an AI-powered simulation and analytics system that creates a virtual replica of supply chain operations. The project helps organizations monitor inventory movement, analyze backlog growth, identify bottlenecks, and improve decision-making through explainable analytics.
 
@@ -8,7 +8,7 @@ The system models real-world supply chain behavior using Digital Twin technology
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Develop a Digital Twin model for supply chain operations.
 * Simulate inventory, delivery, backlog, and waste management.
@@ -17,66 +17,10 @@ The system models real-world supply chain behavior using Digital Twin technology
 * Detect operational inefficiencies and bottlenecks.
 * Enable future real-time inventory tracking using YOLO.
 * Improve planning and decision-making.
-
+  
 ---
 
-## 🏗️ System Architecture
-
-```text
-                    +------------------+
-                    | Customer Demand  |
-                    +--------+---------+
-                             |
-                             v
-                   +-------------------+
-                   |  Order Processing |
-                   +--------+----------+
-                            |
-                            v
-                   +-------------------+
-                   |     Backlog       |
-                   +--------+----------+
-                            |
-                            v
-                   +-------------------+
-                   |    Fulfillment    |
-                   +--------+----------+
-                            |
-                            v
-+------------+     +-------------------+      +------------+
-| Suppliers  | --> |    Inventory      | -->  | Delivery   |
-+------------+     +-------------------+      +------------+
-                           |
-                           v
-                  +--------------------+
-                  | Pipeline Inventory |
-                  +--------------------+
-                           |
-                           v
-                  +--------------------+
-                  | Returned Inventory |
-                  +--------------------+
-                           |
-                           v
-                  +--------------------+
-                  | Waste Management   |
-                  +--------------------+
-
-                           |
-                           v
-                 +----------------------+
-                 | Explainable Analytics|
-                 +----------------------+
-                           |
-                           v
-                 +----------------------+
-                 | Graphs & Insights    |
-                 +----------------------+
-```
-
----
-
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -90,27 +34,27 @@ The system models real-world supply chain behavior using Digital Twin technology
 
 ---
 
-## 📊 Key Features
+## Key Features
 
-✅ Digital Twin-based Supply Chain Simulation
+ Digital Twin-based Supply Chain Simulation
 
-✅ Inventory Monitoring and Analysis
+ Inventory Monitoring and Analysis
 
-✅ Backlog & Delivery Tracking
+ Backlog & Delivery Tracking
 
-✅ Waste Management Analysis
+ Waste Management Analysis
 
-✅ Trend and Correlation Detection
+ Trend and Correlation Detection
 
-✅ Lag Effect Analysis
+ Lag Effect Analysis
 
-✅ Explainable AI Insights
+ Explainable AI Insights
 
-✅ Graphical Visualization Dashboard
+ Graphical Visualization Dashboard
 
 ---
 
-## 📈 Results
+## Results
 
 The project successfully identified:
 
@@ -123,36 +67,25 @@ The project successfully identified:
 
 These insights help improve operational efficiency and strategic planning.
 
----
+<img width="877" height="446" alt="image" src="https://github.com/user-attachments/assets/07a84f59-dd16-4916-8307-7eb35710e099" />
 
-## 🚀 Future Enhancements
+<img width="727" height="496" alt="image" src="https://github.com/user-attachments/assets/f850ccc4-be9f-481a-86c6-2b0ef18ff4c2" />
+Fig. Backlog and Backlog Fulfillment
 
-* IoT Sensor Integration
-* ERP System Integration
-* Machine Learning Demand Forecasting
-* Reinforcement Learning Optimization
-* Multi-Warehouse Digital Twin
-* Real-Time YOLO-Based Inventory Monitoring
+<img width="739" height="502" alt="image" src="https://github.com/user-attachments/assets/7c2215ec-f942-4b0b-a60a-d438a1e80334" />
+Fig. Backlog and Delivery
 
----
+<img width="740" height="507" alt="image" src="https://github.com/user-attachments/assets/cc880e1a-47eb-4528-9dde-8594d221c90c" />
+Fig. Delivery and Unfulfilled Demand
 
-## 👨‍💻 Team Members
 
-* Mayank Mulay
-* Aditya Pathak
-* Om Waghmare
-* Aditya Gadhave
+
+
+
+
+
 
 ---
 
-## 📚 References
 
-* Digital Twin Technology
-* System Dynamics Modeling
-* Supply Chain Analytics
-* YOLO Object Detection
-* Explainable AI (XAI)
 
----
-
-⭐ If you like this project, don't forget to star the repository!
